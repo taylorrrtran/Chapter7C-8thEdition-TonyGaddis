@@ -28,5 +28,11 @@
     <Text Include="Debug\numbers.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="..\..\..\Taylor\Documents\CorrectAnswers.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\Taylor\Documents\StudentAnswers.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

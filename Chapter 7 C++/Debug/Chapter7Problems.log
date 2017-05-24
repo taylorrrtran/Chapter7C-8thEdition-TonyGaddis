@@ -1,3 +1,5 @@
 ﻿  Chapter7Problems.cpp
-  Chapter7Problems.vcxproj -> C:\Users\Taylor\Documents\Visual Studio 2017\Projects\Chapter 7 C++\Debug\Chapter7Problems.exe
-  Chapter7Problems.vcxproj -> C:\Users\Taylor\Documents\Visual Studio 2017\Projects\Chapter 7 C++\Debug\Chapter7Problems.pdb (Partial PDB)
+e:\visual studio 2017\projects\chapter 7 c++\chapter7problems.cpp(489): warning C4101: 'c': unreferenced local variable
+e:\visual studio 2017\projects\chapter 7 c++\chapter7problems.cpp(656): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chapter7Problems.vcxproj -> E:\Visual Studio 2017\Projects\Chapter 7 C++\Debug\Chapter7Problems.exe
+  Chapter7Problems.vcxproj -> E:\Visual Studio 2017\Projects\Chapter 7 C++\Debug\Chapter7Problems.pdb (Partial PDB)

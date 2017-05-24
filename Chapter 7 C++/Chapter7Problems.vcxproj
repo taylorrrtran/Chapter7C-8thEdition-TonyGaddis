@@ -145,6 +145,8 @@
     <ClInclude Include="Chapter7Problems.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="..\..\..\Taylor\Documents\CorrectAnswers.txt" />
+    <Text Include="..\..\..\Taylor\Documents\StudentAnswers.txt" />
     <Text Include="Debug\numbers.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

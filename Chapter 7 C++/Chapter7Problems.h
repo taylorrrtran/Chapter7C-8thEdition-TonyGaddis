@@ -14,4 +14,8 @@ public:
 	static void numberAnalysis();
 	static void magicSquare(int nums[][COLS], int ROWS);
 	static void payroll();
+	static void driversLicenseExam();
+	static void examGrader();
+	static void gradeBook();
+	static void lottery();
 };
